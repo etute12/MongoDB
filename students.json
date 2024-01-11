@@ -1,0 +1,59 @@
+[{
+    "_id": {
+      "$oid": "654d74f54537b33c2f7a2f80"
+    },
+    "name": "Ronald",
+    "age": 20,
+    "gpa": 3,
+    "fullTime": true
+  },
+  {
+    "_id": {
+      "$oid": "654e1606946de4e45e065f72"
+    },
+    "name": "Harry",
+    "age": 21,
+    "gpa": 2.5,
+    "fullTime": false,
+    "registerDate": {
+      "$date": "2023-11-10T11:37:42.806Z"
+    },
+    "graduationDate": null,
+    "courses": [
+      "Mathematics",
+      "Chemistry",
+      "Physics"
+    ],
+    "address": {
+      "street": "Arsernal Street",
+      "city": "Benin city",
+      "zip": 12345
+    }
+  },
+  {
+    "_id": {
+      "$oid": "654d74f54537b33c2f7a2f7e"
+    },
+    "name": "Jadon",
+    "age": 21,
+    "gpa": 3,
+    "fullTime": false
+  },
+  {
+    "_id": {
+      "$oid": "654d74f54537b33c2f7a2f7f"
+    },
+    "name": "Garnacho",
+    "age": 21,
+    "gpa": 4,
+    "fullTime": true
+  },
+  {
+    "_id": {
+      "$oid": "654d73664537b33c2f7a2f7d"
+    },
+    "name": "Rashford",
+    "age": 20,
+    "gpa": 3.5,
+    "fullTime": false
+  }]
